@@ -1,0 +1,10 @@
+{
+	"id": "evergreen-navigation",
+	"name": "Evergreen Navigation",
+	"version": "0.1.0",
+	"minAppVersion": "1.7.2",
+	"description": "One global back/forward history across every tab, stacked tab and split, reusing the tab a note is already open in.",
+	"author": "Avery Chan",
+	"authorUrl": "https://github.com/Avery2",
+	"isDesktopOnly": false
+}
